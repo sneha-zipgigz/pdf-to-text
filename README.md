@@ -1,2 +1,2 @@
-# pdf-to-text
-converting PDF files into text data
+# pdf-and-doc-files-to-text
+converting PDF, Doc, Docx files into text data
